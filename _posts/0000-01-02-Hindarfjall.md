@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Sometimes you eat the bar and ... well... sometimes the bar eats you.
 Use the left arrow to go back!
